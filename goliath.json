@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/igbanam/goliath/releases/download/v0.1.0/goliath_0.1.0_windows_amd64.zip",
+            "bin": [
+                "goliath.exe"
+            ],
+            "hash": "3328b26a88fec2544662b9e46d570479c1aa63f08b4161a093a4640ce6280317"
+        },
+        "arm64": {
+            "url": "https://github.com/igbanam/goliath/releases/download/v0.1.0/goliath_0.1.0_windows_arm64.zip",
+            "bin": [
+                "goliath.exe"
+            ],
+            "hash": "b58371ef52d977d974b170775bbacb282f169b82709a5384e33bc6956576cb8d"
+        }
+    },
+    "homepage": "https://github.com/igbanam/goliath",
+    "license": "MIT",
+    "description": "Polylith-style workspace management for Go"
+}
