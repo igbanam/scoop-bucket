@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/igbanam/goliath/releases/download/v0.2.0/goliath_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/igbanam/goliath/releases/download/v0.2.1/goliath_0.2.1_windows_amd64.zip",
             "bin": [
                 "goliath.exe"
             ],
-            "hash": "8b78d3d2e3ca8615ad96c33f962cb4d88c9c0445f687fab8656734e8df150d9f"
+            "hash": "ab54f33e1f31a7213bd0093f4bdb55153d13aa4be94c8ee8c077e021043b55ed"
         },
         "arm64": {
-            "url": "https://github.com/igbanam/goliath/releases/download/v0.2.0/goliath_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/igbanam/goliath/releases/download/v0.2.1/goliath_0.2.1_windows_arm64.zip",
             "bin": [
                 "goliath.exe"
             ],
-            "hash": "01c16cd4f98568bbe179f6e0e2aca9c5e02bc7a41eaa7baf911667f19f8abdaf"
+            "hash": "1ae3afcf3b1fc3a9a975468b6fcb2d9852fbcda1e92111b2d5b7c1801189c6ee"
         }
     },
     "homepage": "https://github.com/igbanam/goliath",
