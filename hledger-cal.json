@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0.0",
+    "version": "0.1.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/igbanam/hledger-cal/releases/download/v0.1.0.0/hledger-cal-v0.1.0.0-x86_64-pc-windows.zip",
+            "url": "https://github.com/igbanam/hledger-cal/releases/download/v0.1.0.1/hledger-cal-v0.1.0.1-x86_64-pc-windows.zip",
             "bin": [
                 "hledger-cal.exe"
             ],
-            "hash": "fc2991950020007825c1766fc1e798876831cbd41d64c5298d8c7c39d8000958"
+            "hash": "553a35944285c5b86e0c8a5848f92a80bbd15ed34d65d0fdd5e84a71353c6929"
         }
     },
     "homepage": "https://github.com/igbanam/hledger-cal",
