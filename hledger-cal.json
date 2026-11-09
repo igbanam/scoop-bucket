@@ -1,0 +1,16 @@
+{
+    "version": "0.1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/igbanam/hledger-cal/releases/download/v0.1.0.0/hledger-cal-v0.1.0.0-x86_64-pc-windows.zip",
+            "bin": [
+                "hledger-cal.exe"
+            ],
+            "hash": "fc2991950020007825c1766fc1e798876831cbd41d64c5298d8c7c39d8000958"
+        }
+    },
+    "homepage": "https://github.com/igbanam/hledger-cal",
+    "license": "GPL-3.0-or-later",
+    "description": "Calendar view of income and expenses for HLedger",
+    "notes": "hledger-cal is an hledger add-on. With hledger installed, run it as: hledger cal"
+}
